@@ -1,2 +1,2 @@
-- 使用了EasyX Library来实现寻路过程的可视化
-- 在VS2022中可以方便得使用该图形化库。
+- The EasyX Library was used to visualize the pathfinding process.
+- This graphical library can be conveniently used in Visual Studio 2022.
